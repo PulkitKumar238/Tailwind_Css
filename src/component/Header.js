@@ -23,7 +23,7 @@ function Header() {
             />
           )}
 
-          <ul className="hidden md:flex text-white gap-5">
+          <ul className="hidden md:flex text-white gap-5 text-xl">
             <li>Home</li>
             <li>About</li>
             <li>Contact</li>
